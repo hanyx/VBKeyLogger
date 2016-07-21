@@ -7,3 +7,13 @@ K:\Users\Killpot\AppData\Local\Temporary Projects\VBKeyLogger\obj\Debug\VBKeyLog
 K:\Users\Killpot\AppData\Local\Temporary Projects\VBKeyLogger\obj\Debug\VBKeyLogger.exe
 K:\Users\Killpot\AppData\Local\Temporary Projects\VBKeyLogger\obj\Debug\VBKeyLogger.xml
 K:\Users\Killpot\AppData\Local\Temporary Projects\VBKeyLogger\obj\Debug\VBKeyLogger.pdb
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.exe
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.xml
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.pdb
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\bin\Debug\VBKeyLogger.exe.config
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\bin\Debug\VBKeyLogger.exe
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\bin\Debug\VBKeyLogger.pdb
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\bin\Debug\VBKeyLogger.xml
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.vbprojResolveAssemblyReference.cache
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.Resources.resources
+K:\Users\Killpot\Documents\Visual Studio 2015\Projects\VBKeyLogger\VBKeyLogger\obj\Debug\VBKeyLogger.vbproj.GenerateResource.Cache
