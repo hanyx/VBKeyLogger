@@ -6,6 +6,7 @@ Module Main
     Public Function GetModuleHandle(ByVal lpModuleName As String) As IntPtr
     End Function
 
+    Private UCase As Boolean = False
     Private WithEvents Logger As New KeyboardHook(GetModuleHandle(Nothing))
 
     Sub Main()
@@ -13,11 +14,13 @@ Module Main
     End Sub
 
     Private Sub Logger_KeyDown(Key As Keys) Handles Logger.KeyDown
-        Console.WriteLine("DOWN: " + Key.ToString)
+        If key = Keys.LShiftKey Or key = Keys.RShiftKey Then UCase = True
+        Console.WriteLine("DOWN: " + If(UCase, Key.ToString, LCase(Key.ToString)))
     End Sub
 
     Private Sub Logger_KeyUp(Key As Keys) Handles Logger.KeyUp
-        Console.WriteLine("  UP: " + Key.ToString)
+        If key = Keys.LShiftKey Or key = Keys.RShiftKey Then UCase = False
+        Console.WriteLine("  UP: " + If(UCase, Key.ToString, LCase(Key.ToString)))
     End Sub
 End Module
 
